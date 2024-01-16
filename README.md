@@ -111,3 +111,6 @@
 </details>
 
 
+## Reflection
+Through this Digital Logic course, I have provided with many valuable knowledges about digital electronics. From the first part, I learned key concepts and practical applications for combinational logic circuit that help me to have deeper understanding about digital electronics. While from the second part, I have explored many topics such as sequential logic corcuit and shift register that gave us insight about how the digital device function in our daily life. Overall, the course gave me an insight about our digital world.
+
